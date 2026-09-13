@@ -41,3 +41,7 @@ More to come: baguettes, ciabatta-style loaves, pizza, pita, rolls. All run on t
 - **Temperatures in °C** with °F in parentheses.
 - **Levain is 100% hydration** unless a recipe says otherwise.
 - Steps that say "whenever you can" mean it. The cold phases are pauses, not deadlines.
+
+## License
+
+Text and photographs are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use them, adapt them, share them; just credit the source.
